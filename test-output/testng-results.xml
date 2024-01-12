@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-11T11:22:56 GMT" name="Default suite" finished-at="2024-01-11T11:22:58 GMT" duration-ms="2601">
+    <groups>
+    </groups>
+    <test started-at="2024-01-11T11:22:56 GMT" name="Default test" finished-at="2024-01-11T11:22:58 GMT" duration-ms="2601">
+      <class name="graphQL.Create_GraphQL">
+        <test-method is-config="true" signature="baseClass()[pri:0, instance:graphQL.Create_GraphQL@6b81ce95]" started-at="2024-01-11T11:22:56 GMT" name="baseClass" finished-at="2024-01-11T11:22:56 GMT" duration-ms="384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseClass -->
+        <test-method signature="createQuery()[pri:0, instance:graphQL.Create_GraphQL@6b81ce95]" started-at="2024-01-11T11:22:56 GMT" name="createQuery" finished-at="2024-01-11T11:22:58 GMT" duration-ms="2179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createQuery -->
+      </class> <!-- graphQL.Create_GraphQL -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
